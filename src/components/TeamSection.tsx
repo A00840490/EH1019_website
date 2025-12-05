@@ -7,26 +7,35 @@ interface TeamMember {
   image?: string;
 }
 
+import sergio from "@/assets/Sergio_Ramos.png";
+import johanna from "@/assets/Johanna_Petterson.png";
+import alejandro from "@/assets/Alejandro_Orta.png";
+import angela from "@/assets/Angela_Lizeth.png";
+
 const teamMembers: TeamMember[] = [
   {
     name: "Sergio",
     title: "Project Leader / Presenter",
     description: "I am the project leader for our Cultural Intelligence educational material. I coordinate the team, make decisions, and guide the structure of our videos and website for GlobalConnect Inc.",
+    image: sergio,
   },
   {
     name: "Johanna",
     title: "Expert Role + Research Lead",
     description: "I take the role of the Cultural Intelligence expert, and I also lead the research process. My job is to make sure our content is accurate, practical, and useful for GlobalConnect employees.",
+    image: johanna,
   },
   {
     name: "Alejandro",
     title: "Case Creator / Script Writer",
     description: "I am responsible for creating the workplace cases and writing scripts for our training videos. My focus is designing realistic examples that show how Cultural Intelligence works inside GlobalConnect.",
+    image: alejandro,
   },
   {
     name: "Angela",
     title: "Website Designer / Production Manager",
     description: "I'm in charge of designing the website and helping manage the video production. I make sure our educational material looks professional, clear, and easy for GlobalConnect employees to use.",
+    image: angela,
   },
 ];
 

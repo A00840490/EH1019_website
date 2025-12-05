@@ -99,7 +99,8 @@ export const educationalPages: EducationalPage[] = [
       },
       {
         title: "Why does CQ Matters in Today's World?",
-        content: "Research shows that teams with high cultural intelligence outperform homogeneous teams by up to 35% on complex tasks. Organizations with culturally intelligent leadership report higher employee engagement in diverse teams, better customer relationships across markets, and more successful international expansions. On a personal level, developing your CQ opens doors to global career opportunities, enriches your relationships, and enhances your ability to navigate our interconnected world with confidence and empathy."
+        content: "Research shows that teams with high cultural intelligence outperform homogeneous teams by up to 35% on complex tasks. Organizations with culturally intelligent leadership report higher employee engagement in diverse teams, better customer relationships across markets, and more successful international expansions. On a personal level, developing your CQ opens doors to global career opportunities, enriches your relationships, and enhances your ability to navigate our interconnected world with confidence and empathy.",
+        imageUrl: "edu-handshake.jpg",
       }
     ],
     youtubeVideoId: "dQw4w9WgXcQ"
@@ -118,12 +119,12 @@ export const educationalPages: EducationalPage[] = [
           {
             title: "Motivation",
             description: "In this scenario, an employee feels annoyed because their teammate from India sends many messages and they assume it is unnecessary. The employee does not consider that communication styles vary across cultures. Another colleague explains that in some cultures asking many questions shows responsibility and a desire to avoid mistakes. The frustrated employee realizes they never tried to understand the teammate’s perspective. This situation shows how low CQ Drive can create misunderstandings that affect teamwork, and how being more curious and open can lead to better collaboration.",
-            youtubeVideoId: "dQw4w9WgXcQ",
+            youtubeVideoId: "nG78T8pwC64",
           },
           {
             title: "Understanding differences",
             description: "During a team discussion, one employee cuts off a colleague because they believe moving quickly is more important than hearing the full idea. The colleague who was interrupted feels uneasy, since in their culture finishing a thought without interruption is a sign of respect. After explaining this, the interrupting employee realizes they were unaware of how their behavior might be interpreted and appreciates the clarification. This moment illustrates how limited CQ Knowledge can create avoidable tension, and how recognizing cultural communication differences helps teams work together more effectively.",
-            youtubeVideoId: "dQw4w9WgXcQ",
+            youtubeVideoId: "ULHmRnmJVHw",
           }
         ]
       },
@@ -147,12 +148,12 @@ export const educationalPages: EducationalPage[] = [
           {
             title: "Planning & adjusting",
             description: "Before a cross-country meeting, a team discusses how to prepare for working with colleagues from different cultural backgrounds. One person suggests thinking ahead about preferred communication styles, while another proposes checking whether the group usually expects detailed explanations or simple step-by-step guidance. Once the meeting begins, they notice that some participants seem unsure, so the team slows the conversation and offers a clear summary to help everyone follow along. This example shows how CQ Strategy involves anticipating cultural needs, paying attention to how others react, and adjusting in real time to keep communication effective.",
-            youtubeVideoId: "dQw4w9WgXcQ",
+            youtubeVideoId: "3PbTCKk4v4M",
           },
           {
             title: "Adapting your behavior",
             description: "During a work conversation, one employee moves quickly through instructions, speaking at a speed that leaves a colleague struggling to follow. The confused coworker asks for a slower pace and a clearer explanation. Realizing the issue, the first employee adjusts, repeating the steps more calmly and making sure the information is easier to process. This interaction demonstrates CQ Action, where small behavioral changes—such as slowing down, rephrasing, or adapting tone—can significantly improve understanding and make communication smoother for everyone involved.",
-            youtubeVideoId: "dQw4w9WgXcQ",
+            youtubeVideoId: "t2ikTBZum7E",
           }
         ]
       },

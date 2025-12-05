@@ -121,11 +121,8 @@ const Quiz = () => {
       </div>
 
       <div className="container mx-auto px-6 py-16 max-w-3xl">
-        <p className="text-foreground/60 font-medium text-sm uppercase tracking-widest mb-4 text-center">
-          Assessment
-        </p>
         <h1 className="text-3xl md:text-4xl font-serif font-bold text-foreground/90 mb-12 text-center">
-          Cultural Intelligence Quiz
+          Test Your Knowledge (Quiz)
         </h1>
 
         {/* All Questions */}
